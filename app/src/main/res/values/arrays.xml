@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="types">
+        <item>凉拌类</item>
+        <item>快餐类</item>
+        <item>盖饭类</item>
+        <item>炒菜类</item>
+        <item>炖汤类</item>
+        <item>卤酱类</item>
+        <item>西餐类</item>
+        <item>蒸菜类</item>
+        <item>油炸类</item>
+        <item>香煎类</item>
+        <item>腌菜类</item>
+        <item>涮汆类</item>
+    </string-array>
+</resources>

@@ -1,0 +1,11 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppCompatAlertDialogStyle" parent="Theme.AppCompat.Light.Dialog.Alert">
+        <item name="colorAccent">@color/mediumspringgreen</item>
+        <item name="android:windowTitleStyle">@style/DialogTitle</item>
+    </style>
+
+    <style name="DialogTitle">
+        <item name="android:background">@color/mintcream</item>
+    </style>
+</resources>

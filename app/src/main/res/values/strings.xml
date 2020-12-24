@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Order</string>
+    <string name="type">选择菜品所属类型</string>
+</resources>
